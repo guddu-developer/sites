@@ -1,12 +1,14 @@
 [
     {
         "siteUrl": "demo",
+        "theme":"all",
         "siteId": 1000,
         "uniqueId": "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea",
         "expire": 203009
     },
     {
-        "siteUrl": "http://localhost/webservices/",
+        "siteUrl": "https://kpmachinery.com",
+        "theme":"industrio",
         "siteId": 1001,
         "uniqueId": "1db379b94a81ea95844758c35364b2a0e2aa0c74642c805ae807812207c78ebd",
         "expire": 202509

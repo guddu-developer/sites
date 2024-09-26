@@ -12,5 +12,12 @@
         "siteId": 1001,
         "uniqueId": "1db379b94a81ea95844758c35364b2a0e2aa0c74642c805ae807812207c78ebd",
         "expire": 202509
+    },
+    {
+        "siteUrl": "https://dspmrvm.com",
+        "theme":"industrio",
+        "siteId": 1002,
+        "uniqueId": "1db379b94a81ea95844758c35364b2a0e2aa0c74642c805ae807812207c790oo",
+        "expire": 202509
     }
 ]
